@@ -1,0 +1,20 @@
+header h2 {
+	font-family: Pacofico;
+	font-weight: bold;
+}
+.btn1 {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+table {
+	text-align: center;
+}
+table tr th {
+	text-align: center;
+}
+.pagination a{
+	border: 2px solid #02F;
+	padding: 10px;
+	color: #000;
+	text-decoration: none;
+}
